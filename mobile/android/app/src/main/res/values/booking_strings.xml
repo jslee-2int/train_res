@@ -1,0 +1,4 @@
+<resources>
+    <string name="booking_accessibility_label">KTX 예매 화면 준비</string>
+    <string name="booking_accessibility_description">사용자가 요청할 때 코레일+ 화면의 글자·버튼과 목록 이미지를 휴대폰 안에서 읽어 출발역·도착역·날짜·시간·열차·등급을 선택합니다. 예약·결제 버튼은 누르지 않습니다. 화면 이미지는 파일로 저장하거나 전송하지 않습니다. 최대 2분 후 자동 중지됩니다.</string>
+</resources>

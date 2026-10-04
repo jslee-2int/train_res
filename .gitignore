@@ -1,0 +1,31 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+mobile/android/key.properties
+mobile/android/keystore/
+
+# Generated artifacts
+logs/
+*.log
+build/
+dist/
+.coverage
+htmlcov/
+
+# Editor and OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
