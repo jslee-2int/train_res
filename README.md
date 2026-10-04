@@ -3,6 +3,16 @@
 대전↔서울 KTX 좌석을 조회하고 선택한 열차의 잔여 좌석을 알리는 Windows·Android 앱입니다.
 Windows는 PyQt6, Android는 Flutter와 기기 내 Python 조회 엔진을 사용합니다.
 
+## 스크린샷
+
+### Windows
+
+![Windows KTX 좌석 알림 앱 화면](screenshots/gui.png)
+
+### Android
+
+<img src="screenshots/mobile.png" alt="Android KTX 좌석 알림 앱 화면" width="360">
+
 ## 개발 시작
 
 Windows에서 Python 3.11 이상을 설치한 뒤 `setup_app.bat`을 실행하고 `start_app.bat`으로 앱을 시작합니다.
